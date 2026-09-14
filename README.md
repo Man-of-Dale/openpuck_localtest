@@ -1,4 +1,4 @@
-# OpenPuck
+# OpenPuck test
 
 [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://github.com/safijari/openpuck/discussions/211)
 
